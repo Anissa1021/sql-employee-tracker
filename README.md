@@ -39,7 +39,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 - Finally you can run `node index.js`
 
 ## Walkthrough
-
+https://drive.google.com/file/d/1yuKkFAmlD_KTgB0aoMKeIUi0c12vatcm/view?usp=sharing
 
 ## Tech
 - `SQL`
