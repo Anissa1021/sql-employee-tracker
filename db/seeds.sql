@@ -24,8 +24,8 @@ VALUES
 ("Peter", "Parker", 1, null),
 ("Tony", "Stark", 2, 1),
 ("Bruce", "Banner", 3, null),
-("Timmy", "Turner", 4, 2),
-("Peter", "Quill", 5, null),
+("Miles", "Morales", 4, 2),
+("Wally", "West", 5, null),
 ("Barry", "Allen", 6, 3),
-("Bruce", "Wayne", 7, null),
-("Rick", "Flag", 8, 4);
+("Clark", "Kent", 7, null),
+("Gwen", "Stacy", 8, 4);
